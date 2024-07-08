@@ -33,7 +33,4 @@ Ribo files required to reproduce these results are not included in the repo for 
 
 ### Work Flow
 To calculate the periodicity, first you need to generate the corresponding start_stop_sites, studies_list, dynamic_range using the provided scripts in each separate subdirectories, or use the provided version stored. 
-To calculate periodicity, simply run `periodicity.py`, and the graph the results, use `graph_periodicity.py`. 
-
-## Contact
-If you have any questions, please email hurleyqi@utexas.edu or yliu5@utexas.edu.
+To calculate periodicity, simply run `periodicity.py`. 
